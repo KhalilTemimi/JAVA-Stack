@@ -1,0 +1,1 @@
+alert("this is the "+document.title.toLocaleLowerCase()+" template");
