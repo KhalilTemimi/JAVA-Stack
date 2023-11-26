@@ -1,0 +1,7 @@
+box{
+	background-color: #9FC5F8;
+	color: white;
+	width:30%; 
+	border: 1px solid red;
+	box-sizing: border-box
+}
